@@ -10,7 +10,7 @@ This is FRestaurant Reviews App for Udacity's Front-End Web Developer Nanodegree
 3. Add a ServiceWorker script to cache requests to all of the site’s assets so that any page that  has been visited by a user will be accessible when the user is offline.
 
 ## How to Run
-1. Clone this [repository](https://github.com/jimmy0118/Restaurant_Reviews_App.git) or download and place zip file.
+1. Clone this [repository](https://github.com/jimmy0118/mws-restaurant-stage-1.git) or download and place zip file.
 
 2. From inside the clone directory, launch a local client server using Python from your terminal:
   Python 2: `python -m SimpleHTTPServer 8000`
