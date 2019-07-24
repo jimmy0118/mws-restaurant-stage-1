@@ -1,7 +1,7 @@
 # Restaurant Reviews App
 
 ## Project Overview
-This is FRestaurant Reviews App for Udacity's Front-End Web Developer Nanodegree project. There are three main goals for this project.
+This is a Restaurant Reviews App for Udacity's Front-End Web Developer Nanodegree project. There are three main goals for this project.
 
 1. Convert the provided site to use a responsive design.
 
